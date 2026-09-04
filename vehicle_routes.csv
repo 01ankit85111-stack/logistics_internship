@@ -1,0 +1,16 @@
+route_id,vehicle_id,warehouse,region,capacity,cost_per_trip,avg_distance_km
+R001,VEH-001,Warehouse-North,West,38,157,111
+R002,VEH-002,Warehouse-South,East,29,110,93
+R003,VEH-003,Warehouse-Central,North,23,150,53
+R004,VEH-004,Warehouse-Central,Central,42,131,116
+R005,VEH-005,Warehouse-Central,East,55,140,58
+R006,VEH-006,Warehouse-South,East,22,138,49
+R007,VEH-007,Warehouse-North,South,54,87,110
+R008,VEH-008,Warehouse-South,North,53,102,53
+R009,VEH-009,Warehouse-North,Central,31,112,23
+R010,VEH-010,Warehouse-North,West,45,114,64
+R011,VEH-011,Warehouse-Central,West,26,73,98
+R012,VEH-012,Warehouse-South,East,50,119,34
+R013,VEH-013,Warehouse-South,Central,48,83,63
+R014,VEH-014,Warehouse-South,East,34,136,28
+R015,VEH-015,Warehouse-South,East,22,131,87
